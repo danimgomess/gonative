@@ -1,8 +1,7 @@
 # gonative
 
 Authors:
-Daniel Martins Gomes
-
+Daniel Martins Gomes,
 Oswald Tay
 
 Date Created: 07/28/2023
